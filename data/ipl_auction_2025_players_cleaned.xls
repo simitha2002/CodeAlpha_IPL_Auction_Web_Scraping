@@ -1,0 +1,183 @@
+team,sr_no,player,base_price_raw,base_price_inr,winning_bid_raw,winning_bid_inr,capped_status
+Chennai Super Kings,1.0,Noor Ahmad,"2,00,00,000",20000000,"10,00,00,000",100000000,Capped
+Chennai Super Kings,2.0,Ravichandaran Ashwin,"2,00,00,000",20000000,"9,75,00,000",97500000,Capped
+Chennai Super Kings,3.0,Devon Conway,"2,00,00,000",20000000,"6,25,00,000",62500000,Capped
+Chennai Super Kings,4.0,Syed Khaleel Ahmed,"2,00,00,000",20000000,"4,80,00,000",48000000,Capped
+Chennai Super Kings,5.0,Rachin Ravindra,"1,50,00,000",15000000,"4,00,00,000",40000000,Capped
+Chennai Super Kings,6.0,Anshul Kamboj,"30,00,000",3000000,"3,40,00,000",34000000,Uncapped
+Chennai Super Kings,7.0,Rahul Tripathi,"75,00,000",7500000,"3,40,00,000",34000000,Capped
+Chennai Super Kings,8.0,Sam Curran,"2,00,00,000",20000000,"2,40,00,000",24000000,Capped
+Chennai Super Kings,9.0,Gurjapneet Singh,"30,00,000",3000000,"2,20,00,000",22000000,Uncapped
+Chennai Super Kings,10.0,Nathan Ellis,"1,25,00,000",12500000,"2,00,00,000",20000000,Capped
+Chennai Super Kings,11.0,Deepak Hooda,"75,00,000",7500000,"1,70,00,000",17000000,Capped
+Chennai Super Kings,12.0,Jamie Overton,"1,50,00,000",15000000,"1,50,00,000",15000000,Capped
+Chennai Super Kings,13.0,Vijay Shankar,"30,00,000",3000000,"1,20,00,000",12000000,Uncapped
+Chennai Super Kings,14.0,Vansh Bedi,"30,00,000",3000000,"55,00,000",5500000,Uncapped
+Chennai Super Kings,15.0,Andre Siddarth,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Chennai Super Kings,16.0,Shreyas Gopal,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Chennai Super Kings,17.0,Ramakrishna Ghosh,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Chennai Super Kings,18.0,Kamlesh Nagarkoti,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Chennai Super Kings,19.0,Mukesh Choudhary,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Chennai Super Kings,20.0,Shaik Rasheed,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Delhi Capitals,1.0,KL Rahul,"2,00,00,000",20000000,"14,00,00,000",140000000,Capped
+Delhi Capitals,2.0,Mitchell Starc,"2,00,00,000",20000000,"11,75,00,000",117500000,Capped
+Delhi Capitals,3.0,T. Natarajan,"2,00,00,000",20000000,"10,75,00,000",107500000,Capped
+Delhi Capitals,4.0,Jake Fraser-Mcgurk,"2,00,00,000",20000000,"9,00,00,000",90000000,Capped
+Delhi Capitals,5.0,Mukesh Kumar,"2,00,00,000",20000000,"8,00,00,000",80000000,Capped
+Delhi Capitals,6.0,Harry Brook,"2,00,00,000",20000000,"6,25,00,000",62500000,Capped
+Delhi Capitals,7.0,Ashutosh Sharma,"30,00,000",3000000,"3,80,00,000",38000000,Uncapped
+Delhi Capitals,8.0,Mohit Sharma,"50,00,000",5000000,"2,20,00,000",22000000,Uncapped
+Delhi Capitals,9.0,Faf Du Plessis,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Delhi Capitals,10.0,Sameer Rizvi,"30,00,000",3000000,"95,00,000",9500000,Uncapped
+Delhi Capitals,11.0,Donovan Ferreira,"75,00,000",7500000,"75,00,000",7500000,Capped
+Delhi Capitals,12.0,Dushmantha Chameera,"75,00,000",7500000,"75,00,000",7500000,Capped
+Delhi Capitals,13.0,Vipraj Nigam,"30,00,000",3000000,"50,00,000",5000000,Uncapped
+Delhi Capitals,14.0,Karun Nair,"30,00,000",3000000,"50,00,000",5000000,Uncapped
+Delhi Capitals,15.0,Madhav Tiwari,"30,00,000",3000000,"40,00,000",4000000,Uncapped
+Delhi Capitals,16.0,Tripurana Vijay,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Delhi Capitals,17.0,Manvanth Kumar L,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Delhi Capitals,18.0,Ajay Mandal,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Delhi Capitals,19.0,Darshan Nalkande,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Gujarat Titans,1.0,Jos  Buttler,"2,00,00,000",20000000,"15,75,00,000",157500000,Capped
+Gujarat Titans,2.0,Mohammad Siraj,"2,00,00,000",20000000,"12,25,00,000",122500000,Capped
+Gujarat Titans,3.0,Kagiso Rabada,"2,00,00,000",20000000,"10,75,00,000",107500000,Capped
+Gujarat Titans,4.0,Prasidh Krishna,"2,00,00,000",20000000,"9,50,00,000",95000000,Capped
+Gujarat Titans,5.0,Washington Sundar,"2,00,00,000",20000000,"3,20,00,000",32000000,Capped
+Gujarat Titans,6.0,Sherfane Rutherford,"1,50,00,000",15000000,"2,60,00,000",26000000,Capped
+Gujarat Titans,7.0,Gerald Coetzee,"1,25,00,000",12500000,"2,40,00,000",24000000,Capped
+Gujarat Titans,8.0,Glenn Phillips,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Gujarat Titans,9.0,R. Sai Kishore,"75,00,000",7500000,"2,00,00,000",20000000,Capped
+Gujarat Titans,10.0,Mahipal Lomror,"50,00,000",5000000,"1,70,00,000",17000000,Uncapped
+Gujarat Titans,11.0,Gurnoor Singh Brar,"30,00,000",3000000,"1,30,00,000",13000000,Uncapped
+Gujarat Titans,12.0,Mohd. Arshad Khan,"30,00,000",3000000,"1,30,00,000",13000000,Uncapped
+Gujarat Titans,13.0,Karim Janat,"75,00,000",7500000,"75,00,000",7500000,Capped
+Gujarat Titans,14.0,Jayant Yadav,"75,00,000",7500000,"75,00,000",7500000,Capped
+Gujarat Titans,15.0,Ishant Sharma,"75,00,000",7500000,"75,00,000",7500000,Capped
+Gujarat Titans,16.0,Kumar Kushagra,"30,00,000",3000000,"65,00,000",6500000,Uncapped
+Gujarat Titans,17.0,Kulwant Khejroliya,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Gujarat Titans,18.0,Manav Suthar,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Gujarat Titans,19.0,Anuj Rawat,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Gujarat Titans,20.0,Nishant Sindhu,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Kolkata Knight Riders,1.0,Venkatesh Iyer,"2,00,00,000",20000000,"23,75,00,000",237500000,Capped
+Kolkata Knight Riders,2.0,Anrich Nortje,"2,00,00,000",20000000,"6,50,00,000",65000000,Capped
+Kolkata Knight Riders,3.0,Quinton De Kock,"2,00,00,000",20000000,"3,60,00,000",36000000,Capped
+Kolkata Knight Riders,4.0,Angkrish Raghuvanshi,"30,00,000",3000000,"3,00,00,000",30000000,Uncapped
+Kolkata Knight Riders,5.0,Spencer Johnson,"2,00,00,000",20000000,"2,80,00,000",28000000,Capped
+Kolkata Knight Riders,6.0,Moeen Ali,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Kolkata Knight Riders,7.0,Rahmanullah Gurbaz,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Kolkata Knight Riders,8.0,Vaibhav Arora,"30,00,000",3000000,"1,80,00,000",18000000,Uncapped
+Kolkata Knight Riders,9.0,Ajinkya Rahane,"1,50,00,000",15000000,"1,50,00,000",15000000,Capped
+Kolkata Knight Riders,10.0,Rovman Powell,"1,50,00,000",15000000,"1,50,00,000",15000000,Capped
+Kolkata Knight Riders,11.0,Umran  Malik,"75,00,000",7500000,"75,00,000",7500000,Capped
+Kolkata Knight Riders,12.0,Manish Pandey,"75,00,000",7500000,"75,00,000",7500000,Capped
+Kolkata Knight Riders,13.0,Anukul Roy,"30,00,000",3000000,"40,00,000",4000000,Uncapped
+Kolkata Knight Riders,14.0,Luvnith Sisodia,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Kolkata Knight Riders,15.0,Mayank Markande,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,1.0,Rishabh Pant,"2,00,00,000",20000000,"27,00,00,000",270000000,Capped
+Lucknow Super Giants,2.0,Avesh Khan,"2,00,00,000",20000000,"9,75,00,000",97500000,Capped
+Lucknow Super Giants,3.0,Akash Deep,"1,00,00,000",10000000,"8,00,00,000",80000000,Capped
+Lucknow Super Giants,4.0,David Miller,"1,50,00,000",15000000,"7,50,00,000",75000000,Capped
+Lucknow Super Giants,5.0,Abdul Samad,"30,00,000",3000000,"4,20,00,000",42000000,Uncapped
+Lucknow Super Giants,6.0,Mitchell Marsh,"2,00,00,000",20000000,"3,40,00,000",34000000,Capped
+Lucknow Super Giants,7.0,Shahbaz Ahamad,"1,00,00,000",10000000,"2,40,00,000",24000000,Capped
+Lucknow Super Giants,8.0,Aiden Markram,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Lucknow Super Giants,9.0,Matthew Breetzke,"75,00,000",7500000,"75,00,000",7500000,Capped
+Lucknow Super Giants,10.0,Shamar Joseph,"75,00,000",7500000,"75,00,000",7500000,Capped
+Lucknow Super Giants,11.0,M. Siddharth,"30,00,000",3000000,"75,00,000",7500000,Uncapped
+Lucknow Super Giants,12.0,Arshin Kulkarni,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,13.0,Rajvardhan Hangargekar,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,14.0,Yuvraj Chaudhary,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,15.0,Prince Yadav,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,16.0,Akash Singh,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,17.0,Digvesh Singh,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,18.0,Himmat Singh,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Lucknow Super Giants,19.0,Aryan Juyal,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,1.0,Trent Boult,"2,00,00,000",20000000,"12,50,00,000",125000000,Capped
+Mumbai Indians,2.0,Deepak Chahar,"2,00,00,000",20000000,"9,25,00,000",92500000,Capped
+Mumbai Indians,3.0,Will Jacks,"2,00,00,000",20000000,"5,25,00,000",52500000,Capped
+Mumbai Indians,4.0,Naman Dhir,"30,00,000",3000000,"5,25,00,000",52500000,Uncapped
+Mumbai Indians,5.0,Allah  Ghazanfar,"75,00,000",7500000,"4,80,00,000",48000000,Capped
+Mumbai Indians,6.0,Mitchell Santner,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Mumbai Indians,7.0,Ryan Rickelton,"1,00,00,000",10000000,"1,00,00,000",10000000,Capped
+Mumbai Indians,8.0,Lizaad Williams,"75,00,000",7500000,"75,00,000",7500000,Capped
+Mumbai Indians,9.0,Reece Topley,"75,00,000",7500000,"75,00,000",7500000,Capped
+Mumbai Indians,10.0,Robin Minz,"30,00,000",3000000,"65,00,000",6500000,Uncapped
+Mumbai Indians,11.0,Karn Sharma,"50,00,000",5000000,"50,00,000",5000000,Uncapped
+Mumbai Indians,12.0,Vignesh Puthur,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,13.0,Arjun  Tendulkar,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,14.0,Bevan John Jacobs,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,15.0,Venkata Satyanarayana Penmetsa,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,16.0,Raj Angad Bawa,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,17.0,Shrijith Krishnan,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Mumbai Indians,18.0,Ashwani Kumar,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Punjab Kings,1.0,Shreyas Iyer,"2,00,00,000",20000000,"26,75,00,000",267500000,Capped
+Punjab Kings,2.0,Yuzvendra Chahal,"2,00,00,000",20000000,"18,00,00,000",180000000,Capped
+Punjab Kings,3.0,Arshdeep Singh,"2,00,00,000",20000000,"18,00,00,000",180000000,Capped
+Punjab Kings,4.0,Marcus Stoinis,"2,00,00,000",20000000,"11,00,00,000",110000000,Capped
+Punjab Kings,5.0,Marco Jansen,"1,25,00,000",12500000,"7,00,00,000",70000000,Capped
+Punjab Kings,6.0,Nehal Wadhera,"30,00,000",3000000,"4,20,00,000",42000000,Uncapped
+Punjab Kings,7.0,Glenn Maxwell,"2,00,00,000",20000000,"4,20,00,000",42000000,Capped
+Punjab Kings,8.0,Priyansh Arya,"30,00,000",3000000,"3,80,00,000",38000000,Uncapped
+Punjab Kings,9.0,Josh Inglis,"2,00,00,000",20000000,"2,60,00,000",26000000,Capped
+Punjab Kings,10.0,Azmatullah Omarzai,"1,50,00,000",15000000,"2,40,00,000",24000000,Capped
+Punjab Kings,11.0,Lockie Ferguson,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Punjab Kings,12.0,Vyshak Vijaykumar,"30,00,000",3000000,"1,80,00,000",18000000,Uncapped
+Punjab Kings,13.0,Yash Thakur,"30,00,000",3000000,"1,60,00,000",16000000,Uncapped
+Punjab Kings,14.0,Harpreet  Brar,"30,00,000",3000000,"1,50,00,000",15000000,Uncapped
+Punjab Kings,15.0,Aaron Hardie,"1,25,00,000",12500000,"1,25,00,000",12500000,Capped
+Punjab Kings,16.0,Vishnu Vinod,"30,00,000",3000000,"95,00,000",9500000,Uncapped
+Punjab Kings,17.0,Xavier Bartlett,"75,00,000",7500000,"80,00,000",8000000,Capped
+Punjab Kings,18.0,Kuldeep  Sen,"75,00,000",7500000,"80,00,000",8000000,Capped
+Punjab Kings,19.0,Pravin Dubey,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Punjab Kings,20.0,Pyla Avinash,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Punjab Kings,21.0,Suryansh  Shedge,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Punjab Kings,22.0,Musheer Khan,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Punjab Kings,23.0,Harnoor Pannu,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Rajasthan Royals,1.0,Jofra Archer,"2,00,00,000",20000000,"12,50,00,000",125000000,Capped
+Rajasthan Royals,2.0,Tushar Deshpande,"1,00,00,000",10000000,"6,50,00,000",65000000,Capped
+Rajasthan Royals,3.0,Wanindu Hasaranga,"2,00,00,000",20000000,"5,25,00,000",52500000,Capped
+Rajasthan Royals,4.0,Maheesh Theekshana,"2,00,00,000",20000000,"4,40,00,000",44000000,Capped
+Rajasthan Royals,5.0,Nitish Rana,"1,50,00,000",15000000,"4,20,00,000",42000000,Capped
+Rajasthan Royals,6.0,Fazalhaq Farooqi,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Rajasthan Royals,7.0,Kwena Maphaka,"75,00,000",7500000,"1,50,00,000",15000000,Capped
+Rajasthan Royals,8.0,Akash Madhwal,"30,00,000",3000000,"1,20,00,000",12000000,Uncapped
+Rajasthan Royals,9.0,Vaibhav Suryavanshi,"30,00,000",3000000,"1,10,00,000",11000000,Uncapped
+Rajasthan Royals,10.0,Shubham Dubey,"30,00,000",3000000,"80,00,000",8000000,Uncapped
+Rajasthan Royals,11.0,Yudhvir Charak,"30,00,000",3000000,"35,00,000",3500000,Uncapped
+Rajasthan Royals,12.0,Ashok Sharma,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Rajasthan Royals,13.0,Kunal Rathore,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Rajasthan Royals,14.0,Kumar Kartikeya Singh,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Royal Challengers Bengaluru,1.0,Josh Hazlewood,"2,00,00,000",20000000,"12,50,00,000",125000000,Capped
+Royal Challengers Bengaluru,2.0,Phil Salt,"2,00,00,000",20000000,"11,50,00,000",115000000,Capped
+Royal Challengers Bengaluru,3.0,Jitesh Sharma,"1,00,00,000",10000000,"11,00,00,000",110000000,Capped
+Royal Challengers Bengaluru,4.0,Bhuvneshwar Kumar,"2,00,00,000",20000000,"10,75,00,000",107500000,Capped
+Royal Challengers Bengaluru,5.0,Liam Livingstone,"2,00,00,000",20000000,"8,75,00,000",87500000,Capped
+Royal Challengers Bengaluru,6.0,Rasikh Dar,"30,00,000",3000000,"6,00,00,000",60000000,Uncapped
+Royal Challengers Bengaluru,7.0,Krunal Pandya,"2,00,00,000",20000000,"5,75,00,000",57500000,Capped
+Royal Challengers Bengaluru,8.0,Tim David,"2,00,00,000",20000000,"3,00,00,000",30000000,Capped
+Royal Challengers Bengaluru,9.0,Jacob Bethell,"1,25,00,000",12500000,"2,60,00,000",26000000,Capped
+Royal Challengers Bengaluru,10.0,Suyash Sharma,"30,00,000",3000000,"2,60,00,000",26000000,Uncapped
+Royal Challengers Bengaluru,11.0,Devdutt Padikkal,"2,00,00,000",20000000,"2,00,00,000",20000000,Capped
+Royal Challengers Bengaluru,12.0,Nuwan Thushara,"75,00,000",7500000,"1,60,00,000",16000000,Capped
+Royal Challengers Bengaluru,13.0,Romario Shepherd,"1,50,00,000",15000000,"1,50,00,000",15000000,Capped
+Royal Challengers Bengaluru,14.0,Lungisani Ngidi,"1,00,00,000",10000000,"1,00,00,000",10000000,Capped
+Royal Challengers Bengaluru,15.0,Swapnil Singh,"30,00,000",3000000,"50,00,000",5000000,Uncapped
+Royal Challengers Bengaluru,16.0,Mohit Rathee,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Royal Challengers Bengaluru,17.0,Abhinandan Singh,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Royal Challengers Bengaluru,18.0,Swastik Chhikara,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Royal Challengers Bengaluru,19.0,Manoj Bhandage,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Sunrisers Hyderabad,1.0,Ishan Kishan,"2,00,00,000",20000000,"11,25,00,000",112500000,Capped
+Sunrisers Hyderabad,2.0,Mohammad Shami,"2,00,00,000",20000000,"10,00,00,000",100000000,Capped
+Sunrisers Hyderabad,3.0,Harshal Patel,"2,00,00,000",20000000,"8,00,00,000",80000000,Capped
+Sunrisers Hyderabad,4.0,Abhinav Manohar,"30,00,000",3000000,"3,20,00,000",32000000,Uncapped
+Sunrisers Hyderabad,5.0,Rahul Chahar,"1,00,00,000",10000000,"3,20,00,000",32000000,Capped
+Sunrisers Hyderabad,6.0,Adam Zampa,"2,00,00,000",20000000,"2,40,00,000",24000000,Capped
+Sunrisers Hyderabad,7.0,Simarjeet Singh,"30,00,000",3000000,"1,50,00,000",15000000,Uncapped
+Sunrisers Hyderabad,8.0,Eshan Malinga,"30,00,000",3000000,"1,20,00,000",12000000,Uncapped
+Sunrisers Hyderabad,9.0,Brydon Carse,"1,00,00,000",10000000,"1,00,00,000",10000000,Capped
+Sunrisers Hyderabad,10.0,Jaydev Unadkat,"1,00,00,000",10000000,"1,00,00,000",10000000,Capped
+Sunrisers Hyderabad,11.0,Kamindu Mendis,"75,00,000",7500000,"75,00,000",7500000,Capped
+Sunrisers Hyderabad,12.0,Zeeshan Ansari,"30,00,000",3000000,"40,00,000",4000000,Uncapped
+Sunrisers Hyderabad,13.0,Sachin Baby,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Sunrisers Hyderabad,14.0,Aniket Verma,"30,00,000",3000000,"30,00,000",3000000,Uncapped
+Sunrisers Hyderabad,15.0,Atharva Taide,"30,00,000",3000000,"30,00,000",3000000,Uncapped
