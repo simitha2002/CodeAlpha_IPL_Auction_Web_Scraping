@@ -117,7 +117,7 @@ pip install -r requirements.txt
 
 ### Option 1: Run Jupyter Notebook
 ```bash
-jupyter notebook notebooks/ipl_auction_2025_analysis.ipynb
+jupyter notebook notebooks/Task 1.ipynb
 ```
 
 Then run all cells sequentially (Cell → Run All)
@@ -145,10 +145,10 @@ print(team_spending)
 ---
 
 ```
-CodeAlpha_IPL_Auction_Analysis_Web_Scraping/
+CodeAlpha_IPL_Auction_Web_Scraping/
 │
 ├── notebooks/
-│   └── ipl_auction_2025_analysis.ipynb    # Main analysis notebook
+│   └── Task 1.ipynb    # Main analysis notebook
 │
 ├── data/
 │   ├── ipl_auction_2025_players (1).csv       # Raw scraped data
