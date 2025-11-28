@@ -91,8 +91,8 @@ This project demonstrates **web scraping** techniques by extracting real-time da
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_IPL_Auction_Analysis.git
-cd CodeAlpha_IPL_Auction_Analysis
+git clone https://github.com/simitha2002/CodeAlpha_IPL_Auction_Web_Scraping.git
+cd CodeAlpha_IPL_Auction_Web_Scraping
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
